@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "dest": "COX'S BAZAR",
+        "desc": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "bgImg": "/assets/bg-coxs.png",
+        "cardImg": "/assets/bg-coxs.png",
+        "isActive": true
+    },
+    {
+        "id": "2",
+        "dest": "SREEMANGAL",
+        "desc": "Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south. Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.[2]",
+        "bgImg": "/assets/bg-sreemangal.png",
+        "cardImg": "/assets/card-Sreemongol.png",
+        "isActive": false
+    },
+    {
+        "id": "3",
+        "dest": "SUNDARBANS",
+        "desc": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. Sundarban Reserve Forest of Bangladesh is the largest mangrove forest in the world.It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels.",
+        "bgImg": "/assets/bg-sundarbans.png",
+        "cardImg": "/assets/card-sundorbon.png",
+        "isActive": false
+    }
+]

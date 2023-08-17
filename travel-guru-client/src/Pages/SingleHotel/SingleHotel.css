@@ -1,0 +1,29 @@
+.single-hotel {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.single-hotel p {
+    margin-bottom: 0 !important;
+}
+
+.single-hotel img {
+    width: 287px;
+    height: 188px;
+    margin-right: 31px;
+}
+
+.single-hotel h5 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.specs {
+    color: #6A6A6A;
+}

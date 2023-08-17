@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "img": "/assets/bg-sreemangal.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "desc": "Wifi Air conditioning Kitchen and Cancellation flexibility available",
+        "guests": "4",
+        "bedrooms": "2",
+        "beds": "2",
+        "baths": "2",
+        "rating": "4.9",
+        "price": "34"
+    },
+    {
+        "id": "2",
+        "img": "/assets/bg-sajek.png",
+        "title": "Apartment in Lost Panorama",
+        "desc": "Wifi Air conditioning Kitchen and Cancellation flexibility available",
+        "guests": "4",
+        "bedrooms": "2",
+        "beds": "2",
+        "baths": "2",
+        "rating": "4.6",
+        "price": "52"
+    },
+    {
+        "id": "3",
+        "img": "/assets/bg-sundarbans.png",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "desc": "Wifi Air conditioning Kitchen and Cancellation flexibility available",
+        "guests": "4",
+        "bedrooms": "2",
+        "beds": "2",
+        "baths": "2",
+        "rating": "4.8",
+        "price": "44"
+    }
+]

@@ -1,0 +1,16 @@
+.hotels-page {
+    font-family: var(--small-font);
+}
+
+.hotels-section {
+    margin-top: 22px;
+}
+
+.hotels-section-title p {
+    font-weight: 300;
+}
+
+.hotels-section-title h4 {
+    font-size: 24px;
+    font-weight: 700 !important;
+}

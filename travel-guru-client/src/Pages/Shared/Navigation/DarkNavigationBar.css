@@ -1,0 +1,29 @@
+.bottom-border {
+    border-bottom: 1px solid #D1D1D1;
+    padding-bottom: 1rem;
+}
+
+.dark-navigation .nav-links a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.nav-links a h6 {
+    font-weight: 900;
+    font-size: 18px !important;
+}
+
+.nav-login-btn {
+    width: 104px;
+    height: 44px;
+    font-weight: 700 !important;
+    border-radius: 5px;
+    background: #F9A51A;
+    font-family: var(--small-font);
+    outline: none;
+    border: none;
+}

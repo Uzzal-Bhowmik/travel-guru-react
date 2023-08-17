@@ -1,0 +1,95 @@
+.banner {
+    height: 100vh;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+/* swiper js styles */
+.mySwiper {
+    margin-top: 70px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    width: 270px !important;
+    height: 416px !important;
+    cursor: pointer;
+}
+
+.swiper-slide:nth-child(1) {
+    width: 455px !important;
+    margin-left: 200px;
+}
+
+.swiper-slide:nth-child(4) {
+    margin-right: 200px !important;
+}
+
+.swiper-custom-nav-btns button {
+    width: 37px;
+    height: 37px;
+    border-radius: 37px;
+    background: #FFF;
+    font-weight: bold;
+    border: none;
+    margin-right: 11px;
+}
+
+
+/* destinations styles */
+
+.dest-title {
+    color: #FFF;
+    font-size: 97.684px;
+    font-family: var(--big-font) !important;
+}
+
+.dest-desc {
+    color: #FFF;
+    font-size: 16px;
+    font-family: var(--small-font);
+    line-height: 24px;
+}
+
+.dest-card {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    border-radius: 20px;
+    transition: all .3s ease-in-out;
+}
+
+.dest-card:hover {
+    transition: all .3s ease-in-out;
+}
+
+.card-text {
+    position: absolute;
+    bottom: 37px;
+    left: 21px;
+    color: white;
+    font-family: var(--big-font);
+    font-size: 36px !important;
+}
+
+.active-card {
+    border: 4px solid #FBBC04;
+}
+
+.booking-btn .right-arrow {
+    transition: padding .3s ease-out;
+}
+
+.booking-btn:hover .right-arrow {
+    padding-left: 10px;
+    transition: padding .2s ease-in;
+}
