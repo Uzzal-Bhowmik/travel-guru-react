@@ -17,12 +17,12 @@ export const routes = createBrowserRouter([
         children: [
             {
                 path: "/",
-                loader: async () => fetch("http://localhost:5000/destinations"),
+                loader: async () => fetch("https://travel-guru-server-rose-eight.vercel.app/destinations"),
                 element: <Home />
             },
             {
                 path: "/booking/:id",
-                loader: async ({ params }) => fetch(`http://localhost:5000/destinations/${params.id}`),
+                loader: async ({ params }) => fetch(`https://travel-guru-server-rose-eight.vercel.app/destinations/${params.id}`),
                 element: <DynamicBooking></DynamicBooking>
             },
             {
@@ -35,7 +35,7 @@ export const routes = createBrowserRouter([
             },
             {
                 path: "/hotels/:id",
-                loader: async () => fetch("http://localhost:5000/hotels"),
+                loader: async () => fetch("https://travel-guru-server-rose-eight.vercel.app/hotels"),
                 element: <PrivateRoute><Hotels /></PrivateRoute>
             }
         ]
